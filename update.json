@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/Rolgen01/KP-updates/releases/download/v2.1.0/KP-setup-2.1.0.exe",
-  "size": 22927600,
-  "sha256": "0d7e7b544b2c57d901af67373016a2f6475fb6f7adb92cc34d9ef6da6577b830",
-  "notes": "— Система автообновлений\n"
+  "version": "2.1.1",
+  "url": "https://github.com/Rolgen01/KP-updates/releases/download/2.1.1/KP-setup-2.1.1.exe",
+  "size": 22627410,
+  "sha256": "682b750fb57fc0e3640726ea8ece8f56018fed462d968858c3daaba4e0814547",
+  "notes": "— мелкие исправления подписи при экспорте в Word.\n"
 }
