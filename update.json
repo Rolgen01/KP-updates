@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/Rolgen01/KP-updates/releases/download/v2.1.2/KP-setup-2.1.2.exe",
-  "size": 24956153,
-  "sha256": "7824f5e343287fe14894dd330f4d72cd1cf8e62353bc84987125035302732e9f",
+  "version": "2.1.4",
+  "url": "https://github.com/Rolgen01/KP-updates/releases/download/v2.1.4/KP-setup-2.1.4.exe",
+  "size": 27461579,
+  "sha256": "1830d9491a719ba13f228cf729f024aee420b67812a9d48a2177780e7b803cc9",
   "notes": "- мелкие исправления автообновления, установщик запускался 2 раза\n- Мелкие исправления загрузки карточек.\n"
 }
